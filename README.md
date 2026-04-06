@@ -17,5 +17,12 @@ I build products at the intersection of **AI, data, and user experience**. Passi
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK-HERE)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red?style=flat&logo=gmail)](mailto:YOUR-EMAIL-HERE)
+<p align="left">
+  <a href="https://www.linkedin.com/in/larissa-alexander-054429281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Larissa%20Alexander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:larissadubai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-larissadubai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
