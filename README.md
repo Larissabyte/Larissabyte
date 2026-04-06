@@ -1,6 +1,6 @@
 # Hi, I'm Larissa 👋
 
-## 🚀 Product Manager | AI & Tech Enthusiast
+## AI Product Manager
 
 I build products at the intersection of **AI, data, and user experience**. Passionate about turning complex technical problems into elegant, user-centered solutions.
 
