@@ -1,6 +1,6 @@
 # Hi, I'm Larissa Alexander <3
 
-## AI Product Manager
+## Product Manager
 
 I build products at the intersection of **AI, data, and user experience**. Passionate about turning complex technical problems into elegant, user-centered solutions.
 
